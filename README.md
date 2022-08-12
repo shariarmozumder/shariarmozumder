@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shariar Mozumder</h1>
 <h3 align="center">𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Front-End Development</h3>
-<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="center" alt="Coding" width="500" src="https://miro.medium.com/max/1400/1*ktogiwKYr-_UpuhG9sPWhw.gif"/>
 
 
 
