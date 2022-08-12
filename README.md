@@ -1,8 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm Shariar Mozumder</h1>
 <h3 align="center">𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Front-End Development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariarmozumder&label=Profile%20views&color=0e75b6&style=flat" alt="shariarmozumder" /> </p>
