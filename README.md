@@ -1,4 +1,4 @@
-<img align="center"   src="https://wallpapercave.com/wp/wp8903914.jpg"/>
+
 <h1 align="center">Hi 👋, I'm Shariar Mozumder</h1>
 <h3 align="center">𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Front-End Development</h3>
 
