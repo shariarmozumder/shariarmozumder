@@ -45,9 +45,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariarmozumder&show_icons=true&locale=en&layout=compact" alt="shariarmozumder" /></p>
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=azmarifdev&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=azmarifdev&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifdev&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shariarmozumder&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shariarmozumder&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarmozumder&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
