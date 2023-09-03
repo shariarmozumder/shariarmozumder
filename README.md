@@ -44,7 +44,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariarmozumder&show_icons=true&locale=en&layout=compact" alt="shariarmozumder" /></p>
 # 📊 GitHub Stats:
-
+<div>
+  
 ![](https://github-readme-stats.vercel.app/api?username=shariarmozumder&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shariarmozumder&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarmozumder&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -55,4 +56,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariarmozumder&show_icons=true&locale=en" alt="shariarmozumder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariarmozumder&" alt="shariarmozumder" /></p>
+</div>
 
