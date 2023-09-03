@@ -55,9 +55,7 @@
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariarmozumder&show_icons=true&locale=en" alt="shariarmozumder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariarmozumder&" alt="shariarmozumder" /></p>
 </div>
 
 
