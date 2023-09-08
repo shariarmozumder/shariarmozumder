@@ -9,7 +9,7 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021192033066) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shariarmojumder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shariar-mozumderv) <span align="center"> <img src="https://komarev.com/ghpvc/?username=shariarmozumder&label=Profile%20views&color=0e75b6&style=flat" alt="shariarmozumder" /></span> 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021192033066) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shariarmojumder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shariar-mozumder) <span align="center"> <img src="https://komarev.com/ghpvc/?username=shariarmozumder&label=Profile%20views&color=0e75b6&style=flat" alt="shariarmozumder" /></span> 
 
 
 ## 💻 Languages-Frameworks-Tools:
